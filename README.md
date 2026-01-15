@@ -1,6 +1,6 @@
-## Halllo, sou Mask. 
+# Halllo, sou Mask. 
 
-##Algumas tecnologias que estou aprendendo nas minhas aulas
+## Algumas tecnologias que estou aprendendo nas minhas aulas
 
 Git
 Lógica de programação
